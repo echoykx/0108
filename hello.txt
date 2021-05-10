@@ -16,4 +16,4 @@ hello atguigu hello git!!
 hello atguigu hello git!!
 hello atguigu hello git!!
 hello atguigu hello git!!
-hello atguigu hello git!!hot-fix commit first
+hello atguigu hello git!! master commit
